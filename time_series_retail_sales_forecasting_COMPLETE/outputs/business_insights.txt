@@ -1,0 +1,6 @@
+Best model: SARIMA
+Best month: December
+Lowest month: September
+Detected outliers: 0
+Next 12-month forecast total: 2,051,847.54
+Average monthly forecast: 170,987.30
